@@ -22,10 +22,10 @@ shenv KEY_NAME
 shenv --set --key=KEY_NAME --value="[value]"
 ```
 
-**3. Remove value from key**
+**3. Delete value from key**
 
 ```sh
-shenv --remove --key=KEY_NAME
+shenv --delete --key=KEY_NAME
 ```
 
 **4. List all items**
